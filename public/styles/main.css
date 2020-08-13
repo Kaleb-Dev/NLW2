@@ -29,7 +29,7 @@
 }
 
 body {
-    height: 100vh;
+    height: 95vh;
     background-color: var(--color-background);
     display: flex;
     align-items: center;
